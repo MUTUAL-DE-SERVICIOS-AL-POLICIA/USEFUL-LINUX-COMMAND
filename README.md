@@ -13,7 +13,7 @@ Es un emulador de terminal de mosaico anteriormente conocido como Terminix. Es u
 sudo apt update
 sudo apt-get install tilix
 ```
-![762751470dc2e2bc62308fb6482dba42.png](:/6c649f9f45c0495dbcf3ae8be54af30f)
+
 ## **NEOFETCH**
 Es una herramienta desarrollada en bash que nos permite obtener información básica sobre el sistema instalado.
 
@@ -26,7 +26,7 @@ Es una herramienta desarrollada en bash que nos permite obtener información bá
 ```
 sudo apt install neofetch
 ```
-![ea9f69b8a7cacd42d1ad6481cefa396d.png](:/aa69acb5afb5419bb633697d4613a6fb)
+
 ## **EXA**
 Es el reemplazo moderno del programa de linea de comandos ***ls*** que envia con los sistemas operativos Unix y Linux, con más funciones y mejores incumplimientos.
 
@@ -50,7 +50,7 @@ sudo apt install exa
 wget https://github.com/ogham/exa/releases/download/v0.10.1/exa-linux-x86_64-v0.10.1.zip
 sudo unzip -q exa-linux-x86_64-v0.10.1.zip bin/exa -d /usr/local
 ```
-![99d7c00fae723916c8e0e05923afc729.png](:/12bae121477b45f18dcfcaa2acf7cc3f)
+
 ## **BAT**
 Nos muestra el contenido de un archivo, justo como cat, pero con la sintaxis resaltada para la mayoria de los lenguajes de programación.
 
@@ -66,5 +66,3 @@ Nos muestra el contenido de un archivo, justo como cat, pero con la sintaxis res
 wget https://github.com/sharkdp/bat/releases/download/v0.15.4/bat-musl_0.15.4_amd64.deb
 dpkg -i bat-musl_0.15.4_amd64.deb
 ```
-
-![6920c17dca69f0a04de13c4e10a07ed9.png](:/44dbc9fb36cb40eea441dd0fb0e3de4a)
