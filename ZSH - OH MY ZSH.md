@@ -165,7 +165,6 @@ Para usarlo, agregue la siguiente palabra **zsh-autosuggestions** en el archivo 
 Para que surja efecto todos los plugins agregados debemos ejecutar el siguiente comando:
 
 `source $ZSH/oh-my-zsh.sh`
-...
 
 ## Temas oh-my-zsh
 También se puede agregar temas de configuración de bash, el más conocido en este caso **powerlevel10k** que se lo puede instalar de la siguiente manera:
