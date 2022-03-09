@@ -9,7 +9,7 @@ Es un emulador de terminal de mosaico anteriormente conocido como Terminix. Es u
 **Instalación**
 ```
 sudo apt update
-sudo apt-get install tilix
+sudo apt-get install tilix..
 ```
 
 
